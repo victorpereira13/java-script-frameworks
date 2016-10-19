@@ -13,3 +13,5 @@ Exercício de jQuery
 
 •	Mexer na animação.
 
+• Postar no Github.
+
