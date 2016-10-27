@@ -1,0 +1,31 @@
+		body{background:black;
+			}
+		#menu{width:%;
+			display:block;
+           	}
+		#menu ul{list-style:none;
+			font-size:100%;
+			font-family:"Hobo Std";
+			margin:0px;
+			padding:0px;
+
+			}
+		#menu ul li a, #menu ul li span{width:40%;
+			padding:10px 20px;
+			height:80%;
+			color:blue;
+			/*background:url("images/Degrade_img.jpg") repeat-x; */
+            background:orange;
+			text-decoration:none;
+			overflow:hidden;
+			text-align:center;
+			}
+		#menu ul li span{
+			display:block;
+			cursor:pointer;
+			}
+		#menu ul li a{
+			background:url("images/Degrade_img.jpg") repeat-x left bottom;
+			color:#000000;
+			display:none;
+			}
